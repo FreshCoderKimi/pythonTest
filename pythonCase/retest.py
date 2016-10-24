@@ -4,7 +4,7 @@ Created on 2016年10月18日                @author: ljj
 '''
 
 #!/usr/bin/python3
-#!/usr/bin/python3
+
 import re
 
 phone = ["2004-959-559 # 这是一个座机号码","+8613880830297 #这是一个手机号码 ","13880830297 #这也是一个手机号码 "]

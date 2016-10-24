@@ -4,7 +4,7 @@ Created on 2016年10月20日                @author: ljj
 '''
 
 #!/usr/bin/python3
-#!/usr/bin/python3
+
 import re
 import urllib.request as request
 
